@@ -1,0 +1,21 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fdfdfd;
+}
+
+.navbar {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+.upload-section {
+    padding: 60px 0;
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+.card-text span.badge {
+    font-size: 1em;
+    padding: 0.5em 1em;
+}
